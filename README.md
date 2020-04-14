@@ -1,2 +1,2 @@
 # penilaian-survey-covid19
-Tugas PTS
+Sebuah aplikasi website untuk mengecek resiko kita terkena covid 19
